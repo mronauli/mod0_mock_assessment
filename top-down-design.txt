@@ -1,0 +1,55 @@
+#Making a Sandwich
+1. Pick sandwich type
+  1.1 Think of sandwich you want to eat
+  1.2 Choose peanut butter and jelly sandwich
+2. Gather ingredients
+  2.1 Walk to pantry
+  2.2 Open pantry
+  2.3 Grab ingredients
+    2.3.1 Grab bread
+    2.3.2 Grab peanut butter
+    2.3.3 Grab jelly
+  2.4 Shut pantry
+3. Find place to make sandwich
+  3.1 Walk to table in the kitchen
+  3.2 Set ingredients on table
+4. Gather dishware and silverware
+  4.1 Grab butter knife
+    4.1.1 Walk back to area where pantry is
+    4.1.2 Open drawer
+    4.1.3 Retrieve butter knife
+    4.1.4 Close drawer
+  4.2 Grab plate
+    4.2.1 Walk to cupboard area
+    4.2.2 Open cupboard where plates are
+    4.2.3 Retrieve plate
+    4.2.4 Close cupboard
+5. Put sandwich together
+  5.1 Walk back to table
+  5.2 Set plate and butter knife on table
+  5.3 Place two pieces of bread on plate
+    5.3.1 Open package of bread
+      5.3.1.1 Untwist knot at end of loaf
+    5.3.2 Grab two pieces of bread
+    5.3.3 Place two pieces of bread next to each other on plate
+    5.3.4 Twist plastic at end of loaf into a knot
+  5.4 Spread peanut butter on one slice of bread
+    5.4.1 Open jar of peanut butter
+      5.4.1.1 Untwist lid
+    5.4.2 Pick up butter knife
+    5.4.3 Grab copious amounts of peanut butter
+      5.4.3.1 Stick butter knife into peanut butter
+      5.4.3.2 Scoop out peanut butter in twist motion
+    5.4.4 Take the peanut butter and glide across one slice of bread
+  5.5 Spread jelly on other slice of sandwich
+    5.4.1 Open jar of jelly
+      5.4.1.1 Untwist lid
+    5.4.2 Pick up butter knife
+    5.4.3 Grab copious amounts of jelly
+      5.4.3.1 Stick butter knife into jelly
+      5.4.3.2 Scoop out jelly in twist motion
+    5.4.4 Take the jelly and glide across other slice of bread
+  5.6 Smoosh slices together
+    5.6.1 Pick up slice of bread with peanut butter
+      5.6.1.1 Make sure peanut butter is facing down
+    5.6.2 Set on top of bread with jelly
