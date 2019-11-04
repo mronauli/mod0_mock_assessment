@@ -1,1 +1,30 @@
-Adding changes
+Class: Dog
+
+Attributes:
+color (string)
+size (string)
+tags (array)
+totalFurSurfaceArea (integer)
+dockedTail (boolean)
+hyper (boolean)
+
+Methods:
+shave (decreases totalFurSurfaceArea amount)
+is_dockedTail? (checks boolean docked tail returns true or false depending on type of tail)
+is_hyper? (checks boolean hyper and either walks dog or returns 'has been walked' depending on whether hyper is true or false
+addTag (append a tag item into the tag array)
+
+Object #1: Doberman
+Attributes:
+color ('black')
+size ('large')
+tags (['name', 'rabies vaccine'])
+totalFurSurfaceArea (100)
+dockedTail (true)
+hyper (true)
+
+Methods:
+shave - changes totalFurSurfaceArea to (80)
+is_dockedTail - returns 'true'
+is_hyper - walks dog
+addTag - appends ['owner information'] to tags array
