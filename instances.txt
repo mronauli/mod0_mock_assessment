@@ -1,0 +1,31 @@
+Object #1: Doberman
+
+Attributes:
+color: 'black'
+size: 'large'
+tags: ['name', 'rabies vaccine']
+totalFurSurfaceArea: 100
+dockedTail: true
+hyper: true
+
+Methods:
+shave: totalFurSurfaceArea = 50
+is_dockedTail?: dockedTail = true
+is_hyper?: hyper = walks dog
+addTag: tags = ['name','rabies vaccine','owner information']
+
+Object #2: Pomeranian
+
+Attributes:
+color: 'brown'
+size: 'small'
+tags: ['name', 'allergy information']
+totalFurSurfaceArea: 1000
+dockedTail: false
+hyper: false
+
+Methods:
+shave: totalFurSurfaceArea = 500
+is_dockTail: dockedTail = false
+is_hyper: hyper = 'dog has been walked'
+addTag: tags = ['name', 'allergy information', 'rabies vaccine']
